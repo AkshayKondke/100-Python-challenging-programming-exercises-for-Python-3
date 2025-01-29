@@ -44,5 +44,30 @@ Write a program that computes the **factorial** of a given number.
 
 ---
 
+## 🟢 Question 3: Generate a Dictionary of Squares
+
+📌 **Level:** Beginner
+
+### 🔍 Problem Statement:
+Given an integer `n`, write a program to generate a **dictionary** where the keys are numbers from `1` to `n` (both included) and the values are their **squares**.
+
+📌 **Example Input:**
+```
+8
+```
+📌 **Example Output:**
+```
+{1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64}
+```
+
+📌 **Output Format:**
+- Print the dictionary directly.
+
+💡 **Hint:**
+- If the input is provided via console, assume it is a single integer.
+- Consider using `dict()` for dictionary creation.
+
+---
+
 Stay tuned for more daily challenges! 🚀🐍
 
