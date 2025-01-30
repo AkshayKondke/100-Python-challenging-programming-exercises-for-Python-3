@@ -69,5 +69,31 @@ Given an integer `n`, write a program to generate a **dictionary** where the key
 
 ---
 
+## 🟢 Question 4: Convert Comma-Separated Input to List & Tuple  
+
+📌 **Level:** Beginner  
+
+### 🔍 Problem Statement:  
+Write a Python program that accepts a sequence of **comma-separated numbers** from the console and generates:  
+👉 A **list** containing all the numbers  
+👉 A **tuple** containing all the numbers  
+
+📌 **Example Input:**  
+```
+34,67,55,33,12,98
+```
+
+📌 **Expected Output:**  
+```python
+['34', '67', '55', '33', '12', '98']
+('34', '67', '55', '33', '12', '98')
+```
+
+💡 **Hint:**  
+- Use the `.split(',')` method to process the input efficiently.  
+
+---  
+
+
 Stay tuned for more daily challenges! 🚀🐍
 
