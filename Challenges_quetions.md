@@ -94,6 +94,26 @@ Write a Python program that accepts a sequence of **comma-separated numbers** fr
 
 ---  
 
+# 📌 Challenge 5: Class-Based String Manipulation
+
+**Difficulty Level:** 🟢 Beginner  
+
+## 📝 Problem Statement
+Create a Python class that performs basic string operations. Your class should include the following methods:
+
+- **`getString(self)`** 📝: Accepts a string input from the user.
+- **`printString(self)`** 🔠: Prints the stored string in **uppercase**.
+
+Additionally, implement a simple **test function** to verify the class methods.
+
+## 💡 Hints
+- Use the `__init__` method to initialize any necessary attributes.
+- Ensure that your class properly stores and retrieves the string input.
+
+---
+
+
+🚀 Happy Coding! 🎯
 
 Stay tuned for more daily challenges! 🚀🐍
 
