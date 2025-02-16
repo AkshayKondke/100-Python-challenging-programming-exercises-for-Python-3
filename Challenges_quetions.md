@@ -112,6 +112,14 @@ Additionally, implement a simple **test function** to verify the class methods.
 
 ---
 
+# 🚀 Challenge 06 - Python Math Calculation
+
+## 📌 Introduction
+Welcome to **Challenge 06**! 🎯 This Python program calculates values based on a given mathematical formula using user input. The formula used is:
+
+\[ Q = \sqrt{\frac{2 * C * D}{H}} \]
+
+
 
 🚀 Happy Coding! 🎯
 
