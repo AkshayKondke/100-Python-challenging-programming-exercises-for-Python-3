@@ -119,6 +119,12 @@ Welcome to **Challenge 06**! 🎯 This Python program calculates values based on
 
 \[ Q = \sqrt{\frac{2 * C * D}{H}} \]
 
+---
+
+# 🚀 Challenge 07 - Generating 2D array
+
+🔢 2D Array ChallengeWrite a Python program that takes two numbers X and Y as input and generates a 2D array. 📊Each element at (i, j) should be calculated as i * j. 🔢 ➗ ✖️Take input as X, Y (comma-separated) and print the resulting matrix. ⌨️➡️📄Example: Input 3,5 → Output [[0,0,0,0,0], [0,1,2,3,4], [0,2,4,6,8]] 🎯
+
 
 
 🚀 Happy Coding! 🎯
